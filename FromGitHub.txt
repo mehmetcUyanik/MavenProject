@@ -1,1 +1,3 @@
 added directly grom GitHub.com to simulate REMOTE repo has commits we do not have localy
+
+doing more work and trying to pull it down to local repo eventualy
